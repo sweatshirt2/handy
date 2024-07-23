@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+#keys
+.env
+
+# personal
+learned.txt
+
+#documentation
+proposal.txt
+progress.txt
+updates.txt
+final.txt
