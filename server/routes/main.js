@@ -5,8 +5,8 @@ router.get('/', (rq, rs) => {
   rs.render('index');
 });
 
-router.get('/services', (rq, rs) => {
-  rs.render('services');
+router.get('/service', (rq, rs) => {
+  rs.render('service');
 });
 
 router.get('/record', (rq, rs) => {
